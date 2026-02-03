@@ -10,3 +10,4 @@ data/
 logs/   
 models/
 outputs/
+.ipynb_checkpoints/
