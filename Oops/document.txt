@@ -1,0 +1,5 @@
+This is the first line of the document.
+Here is the second line for context.
+The third line is right in the middle.
+Fourth line: almost at the end now.
+Final line: this is line number five.
